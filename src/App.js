@@ -5,7 +5,7 @@ function App() {
   return (
    <>
    <h1>
-    First thing evea
+    First thing evearr
    </h1>
    </>
   );
